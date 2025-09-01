@@ -1,5 +1,13 @@
 A Python application that fetches and displays current weather information for multiple cities using the WeatherAPI.com
 project structure
+
+
+
+
+
+
+
+
 weather_tracker/
 │
 ├── main.py              # Entry point – handles user interaction & program flow
